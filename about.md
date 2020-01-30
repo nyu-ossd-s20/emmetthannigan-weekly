@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a computer science junior at NYU who mainly works on NLP projects in my free time. I am from NYC and I love to run.
 
